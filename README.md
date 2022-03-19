@@ -117,3 +117,8 @@ This is an example of a possible HTML output, you will have to replace the name,
 </div>
 ```
 
+EXPLICACIÓN:
+
+En este ejercicio había que conseguir que al cambiar el contenido de las variables de arriba, se cambiara automáticamente
+en la tarjeta; y que si no se escribía nada no apareciera 'null'.
+Dentro de la función 'render' utilicé un operador ternario para poder modificar las variables, y establecí lo que quería que apareciera en lugar de 'null'.
