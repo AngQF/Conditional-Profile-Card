@@ -121,4 +121,4 @@ EXPLICACIÓN:
 
 En este ejercicio había que conseguir que al cambiar el contenido de las variables de arriba, se cambiara automáticamente
 en la tarjeta; y que si no se escribía nada no apareciera 'null'.
-Dentro de la función 'render' utilicé un operador ternario para poder modificar las variables, y establecí lo que quería que apareciera en lugar de 'null'.
+Dentro de la función 'render' utilicé un operador ternario para poder modificar las variables, y establecí lo que quería que apareciera en lugar de 'null'. Para que al cambiar el nombre de la red social redirigera a esa página, puse el operador ternario dentro del 'href' justo después de la dirección común de la página, para que se añadiera a ella el contenido del cuadro de búsqueda.
